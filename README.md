@@ -63,7 +63,7 @@ A structured dataset representing simulated YouTube video metadata was used, con
      * Predictions were compared against the test set.
        
      * The following evaluation metrics were used:
-       *
+       
              . Accuracy
              . Classification Report (Precision, Recall, F1-score)
              . Confusion Matrix
