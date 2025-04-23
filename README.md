@@ -58,16 +58,20 @@ A structured dataset representing simulated YouTube video metadata was used, con
      * The dataset was split into training (80%) and testing (20%) sets to evaluate model performance effectively.
 3. Model Selection and Training
      * A RandomForestClassifier was chosen due to its strong performance in classification tasks and ability to handle both numerical          and categorical data.
-     * 
+       
 4. Model Evaluation
      * Predictions were compared against the test set.
        
      * The following evaluation metrics were used:
        
-             . Accuracy
-             . Classification Report (Precision, Recall, F1-score)
-             . Confusion Matrix
-             . ROC Curve and AUC Score
+         * Accuracy
+       
+         * Classification Report (Precision, Recall, F1-score)
+       
+         * Confusion Matrix
+       
+         * ROC Curve and AUC Score
+
 # Visualizations & Metrics
   * Confusion Matrix: Provided a breakdown of correct and incorrect classifications.
     
